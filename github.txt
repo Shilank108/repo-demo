@@ -1,0 +1,31 @@
+# cloning 
+git clone "link"
+go to <>code on the github copy the https link and paste here
+now a copy of the whole repo will come here
+
+# cd -> change directory ->change the current working area to this
+cd repo-demo
+
+#ls
+get the list of all file in that folder
+
+# status
+tell if there is something to commit like if some changes we did 
+for eg in start all is fine 
+but when we change something in readme or anything else 
+vscode also tells by changing from u to m 
+
+now after doing changes we do 2 steps add and commit to save the changes
+
+so now in status 4 types of file exist 
+
+new file(untracked) ->ek new file bani hai na add kiya na commit
+or
+change(modified) jab hum kuch change kar de kisi bhi file me 
+|
+phir jab humne add kar diya (staged)
+|
+last and final commit wali cheez matlab jo up to date changes hai wha tak git to pta hai
+(unmodified)
+
+# add and commit
